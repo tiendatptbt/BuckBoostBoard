@@ -1,0 +1,10 @@
+Change Component Library : Designator=1 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Change Component Library : Designator=2 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Change Component Library : Designator=3 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Change Component Library : Designator=4 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Change Component Library : Designator=LED1 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Change Component Library : Designator=LED2 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Change Component Library : Designator=LED3 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Added Room: Name=MCU
+Added Room: Name=MOSFET
+Added Room: Name=POWER
