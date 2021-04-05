@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetOP1_1 Pin=OP3-1
+Added Pin To Net: NetName=FB50 Pin=OP3-3
+Added Member To Class: ClassName=MCU Member=Component C15 2.2uF/16V
+Added Member To Class: ClassName=MCU Member=Component U1 STM32F405RGT6

@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Buck-boost v3.1.PcbDoc   3/19/2021  2:47:47 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Buck-boost v3.1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.8mil (0.29972mm)      Round          121              38.84 Inch (986.60 mm)
+T2        23.6mil (0.59944mm)      Round          56               15.25 Inch (387.28 mm)
+T3        28mil (0.7112mm)         Round          1                0.00 Inch (0.00 mm)
+T4        31.5mil (0.8001mm)       Round          11               3.44 Inch (87.45 mm)
+T5        39.4mil (1.00076mm)      Round          33               11.41 Inch (289.87 mm)
+T6        51.2mil (1.30048mm)      Round          10               4.09 Inch (103.79 mm)
+T7        59.1mil (1.50114mm)      Round          2                0.39 Inch (10.00 mm)
+T8        63mil (1.6002mm)         Round          16               5.55 Inch (141.00 mm)
+T9        78.7mil (1.99898mm)      Round          8                2.24 Inch (57.00 mm)
+T10       98.4mil (2.49936mm)      Round          4                5.39 Inch (137.00 mm)
+T11       122mil (3.0988mm)        Round          2                1.61 Inch (40.90 mm)
+T12       126mil (3.2004mm)        Round          7                14.51 Inch (368.52 mm)
+---------------------------------------------------------------------------
+Totals                                            271              102.73 Inch (2609.40 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

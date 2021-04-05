@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetOP1_1 Pin=OP1-1
+Removed Pin From Net: NetName=V1- Pin=OP1-3
+Removed Pin From Net: NetName=NetOP3_1 Pin=OP3-1
+Removed Pin From Net: NetName=FB50 Pin=OP3-3
+Removed Pin From Net: NetName=NetOP3_2 Pin=R10-1
+Removed Pin From Net: NetName=NetOP3_2 Pin=R11-2
+Removed Pin From Net: NetName=NetOP1_2 Pin=R23-2
+Removed Pin From Net: NetName=NetOP1_2 Pin=R25-2
+Change Component DesignItemId : Designator=D12 Old DesignItemId=1N4007 New DesignItemId=Diode 1000V 1A
+Change Component Footprint: Designator=D12 Old Footprint=1N4007 New Footprint=DO-41-10mm
+Change Component Comment : Designator=D12 Old Comment=SS34 New Comment=UF4007
+Added Pin To Net: NetName=NetOP3_1 Pin=OP1-1
+Added Pin To Net: NetName=FB50 Pin=OP1-3
+Added Pin To Net: NetName=NetOP1_1 Pin=OP3-1
+Added Pin To Net: NetName=V1- Pin=OP3-3
+Added Pin To Net: NetName=NetOP1_2 Pin=R10-1
+Added Pin To Net: NetName=NetOP1_2 Pin=R11-2
+Added Pin To Net: NetName=NetOP3_2 Pin=R23-2
+Added Pin To Net: NetName=NetOP3_2 Pin=R25-2
+Change Net Name : Old Net Name=NetOP1_1 New Net Name=NetOP3_1
+Change Net Name : Old Net Name=NetOP3_1 New Net Name=NetOP1_1

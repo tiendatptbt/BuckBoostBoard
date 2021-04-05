@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V1- Pin=OP3-3
+Added Pin To Net: NetName=V1- Pin=OP3-3
+Added Pin To Net: NetName=FB50 Pin=OP3-3

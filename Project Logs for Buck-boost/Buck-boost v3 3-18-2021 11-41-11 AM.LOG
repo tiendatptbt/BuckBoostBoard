@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=NetOP1_1 Pin=OP3-1
+Removed Pin From Net: NetName=FB50 Pin=OP3-3
+Change Component Library : Designator=C15 Old Library=Duc.SchLib New Library=CyiBuckBoost.IntLib
+Added Component: Designator=C16(CAP 0603(1508))
+Added Component: Designator=U1(STM-LQFP64_N)
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetOP1_1 Pin=OP3-1
+Added Pin To Net: NetName=FB50 Pin=OP3-3
+Added Pin To Net: NetName=NetOP3_1 Pin=OP3-1
+Added Pin To Net: NetName=V1- Pin=OP3-3
+Added Pin To Net: NetName=3.3V Pin=U1-1
+Added Pin To Net: NetName=TEM Pin=U1-3
+Added Pin To Net: NetName=NetC12_1 Pin=U1-5
+Added Pin To Net: NetName=NetC13_1 Pin=U1-6
+Added Pin To Net: NetName=STM_NRST Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=3.3V Pin=U1-13
+Added Pin To Net: NetName=NetIC1_2 Pin=U1-15
+Added Pin To Net: NetName=NetIC1_3 Pin=U1-16
+Added Pin To Net: NetName=FB1A Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=3.3V Pin=U1-19
+Added Pin To Net: NetName=FB2A Pin=U1-20
+Added Pin To Net: NetName=FB3A Pin=U1-21
+Added Pin To Net: NetName=FB4A Pin=U1-22
+Added Pin To Net: NetName=FB5A Pin=U1-23
+Added Pin To Net: NetName=LED1 Pin=U1-24
+Added Pin To Net: NetName=LED2 Pin=U1-25
+Added Pin To Net: NetName=LED3 Pin=U1-26
+Added Pin To Net: NetName=3.3V Pin=U1-32
+Added Pin To Net: NetName=NetBT4_2 Pin=U1-33
+Added Pin To Net: NetName=NetBT3_2 Pin=U1-34
+Added Pin To Net: NetName=NetBT2_2 Pin=U1-35
+Added Pin To Net: NetName=NetBT1_2 Pin=U1-36
+Added Pin To Net: NetName=NetR31_1 Pin=U1-37
+Added Pin To Net: NetName=TX Pin=U1-44
+Added Pin To Net: NetName=RX Pin=U1-45
+Added Pin To Net: NetName=STM_SWDIO Pin=U1-46
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Pin To Net: NetName=STM_SWCLK Pin=U1-49
+Added Pin To Net: NetName=NetLCD1_14 Pin=U1-56
+Added Pin To Net: NetName=NetLCD1_13 Pin=U1-57
+Added Pin To Net: NetName=NetLCD1_12 Pin=U1-58
+Added Pin To Net: NetName=NetLCD1_11 Pin=U1-59
+Added Pin To Net: NetName=GND Pin=U1-60
+Added Pin To Net: NetName=NetLCD1_6 Pin=U1-61
+Added Pin To Net: NetName=NetLCD1_4 Pin=U1-62
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-31
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=U1-47
+Added Net: Name=NetC16_2
+Added Member To Class: ClassName=MCU Member=Component C16 2.2uF/16V
+Added Member To Class: ClassName=MOSFET Member=Component C17 100uF/100V
+Added Member To Class: ClassName=MCU Member=Component U1 STM32F405RGT6

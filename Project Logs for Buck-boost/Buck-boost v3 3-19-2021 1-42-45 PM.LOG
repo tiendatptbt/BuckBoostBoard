@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VS Pin=C22-2
+Removed Pin From Net: NetName=NetC22_1 Pin=D12-2
+Removed Pin From Net: NetName=VS Pin=IC1-6
+Removed Pin From Net: NetName=NetC22_1 Pin=IC1-8
+Change Component DesignItemId : Designator=C22 Old DesignItemId=CAP_ALU_2.2uF_35V_POL_SMD New DesignItemId=C1210
+Change Component Footprint: Designator=C22 Old Footprint=CAP_ALU_SIZEB New Footprint=CAPACITOR-SMD-1210 (3225)
+Change Component Comment : Designator=C22 Old Comment=2.2uF New Comment=C1210
+Added Pin To Net: NetName=NetC22_1 Pin=IC1-6
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=D12-2
+Added Pin To Net: NetName=NetC22_2 Pin=IC1-8
+Added Net: Name=NetC22_2
